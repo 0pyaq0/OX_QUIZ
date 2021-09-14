@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/itemexit"
+    android:title="종료"/>
+    <item android:id="@+id/itemstart"
+        android:title="다시 시작"/>
+    <item android:id="@+id/itemscore"
+        android:title="점수 확인"/>
+    <item android:id="@+id/itemlogin"
+        android:title="로그인 정보 수정"/>
+</menu>
